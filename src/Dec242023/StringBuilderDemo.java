@@ -7,5 +7,7 @@ public class StringBuilderDemo {
         StringBuilder obj = new StringBuilder("welcome to ");
         obj.append("genei ashwani");
         System.out.println(obj);
+
+
     }
 }
