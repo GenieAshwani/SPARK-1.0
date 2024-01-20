@@ -26,5 +26,6 @@ public class Driver {
         System.out.println(Thread.currentThread().getPriority());
         System.out.println(t1.getPriority());
 
+
     }
 }
